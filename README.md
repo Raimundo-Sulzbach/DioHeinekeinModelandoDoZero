@@ -91,6 +91,8 @@ A seguir iremos listar o desenvolvimento do esquema conceitual para o contexto d
   - Concluída e aguardando pagamento
   - Paga
   - Entregue e aprovada pelo cliente
+  - Cancelada pelo cliente.
+  - Cancelada pela oficina.
 
 ## Projeto Lógico:
 
